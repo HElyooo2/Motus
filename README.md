@@ -9,7 +9,7 @@ This application is a Motus game.
 
 ## Screenshots
 Player can try to guess the word.
-[screen 1](/resources/screen1.PNG)
+![screen 1](/resources/screen1.PNG)
 
 The player has found the word.
-[screen 2](/resources/screen2.PNG)
+![screen 2](/resources/screen2.PNG)
